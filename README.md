@@ -1,4 +1,4 @@
-# World-Currency-Coin-Recognition-using
+# World-Currency-Coin-Recognition
 
 # **Project Title: World Currency Coin Recognition using Deep Learning**
 
