@@ -1,5 +1,5 @@
 # World-Currency-Coin-Recognition-using-DeepLearning
-**Project Title: World Currency Coin Recognition using Deep Learning**
+#**Project Title: World Currency Coin Recognition using Deep Learning**
 
 **Overview:**
 The "World Currency Coin Recognition using Deep Learning" project aims to develop an advanced system for recognizing and classifying coins from different parts of the world based on their values and respective countries. Leveraging deep learning techniques, the project focuses on implementing a robust solution capable of accurately identifying both the value and origin of a given coin through image analysis.
