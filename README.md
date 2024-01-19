@@ -9,7 +9,7 @@ The "World Currency Coin Recognition using Deep Learning" project aims to develo
 
 1. **Data Collection and Cleaning:**
    - Compiled a diverse dataset containing images of coins from various countries, encompassing different values.
-   - Employed data cleaning techniques to ensure dataset quality, removing any artifacts or inconsistencies in the coin images.
+   - Employed data cleaning techniques to ensure dataset quality, removing any artefacts or inconsistencies in the coin images.
    - Ensured balanced representation of coins across different denominations and geographical origins.
 
 2. **Input Pipeline and Preprocessing:**
